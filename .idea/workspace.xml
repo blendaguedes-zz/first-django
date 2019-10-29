@@ -348,14 +348,19 @@
 =======
       <workItem from="1572035994631" duration="10683000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4c266163a198fa4581a75036b838e8843da19907
 =======
       <workItem from="1572325270509" duration="3221000" />
+>>>>>>> dev
+=======
+      <workItem from="1572325270509" duration="3452000" />
 >>>>>>> dev
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="10899000" />
@@ -376,12 +381,14 @@
 =======
     <option name="totallyTimeSpent" value="16206000" />
 >>>>>>> dev
+=======
+    <option name="totallyTimeSpent" value="16437000" />
+>>>>>>> dev
   </component>
   <component name="ToolWindowManager">
     <frame x="686" y="23" width="754" height="805" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14466292" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14466292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
 <<<<<<< HEAD
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -404,7 +411,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959327" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959327" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959327" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32959327" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
